@@ -1,7 +1,6 @@
-  <p><img src="./5e0aeb6451000bbc6e1361ad9d3b8094.jpg
-/github-banner.png" width="100%"> alt="Aditya Vikram Singh Banner"></p>
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Aditya</h2><p></p>
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Ngọc Tuyền</h2><p></p>
+<!-- ## 👋 &nbsp;Hey there! I'm Ngọc Tuyền -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 <p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
 🎓 &nbsp;I’m currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br>
