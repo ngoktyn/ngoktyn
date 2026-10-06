@@ -1,4 +1,4 @@
-<p><img src="./3bc9c6a6fb4505b3aa6a753b5410d281.jpg" alt="Banner" width="100%"></p>
+<p><img src="./1dcb5717b481eff60a6c826ba721d6c6.jpg" alt="Banner" width="100%"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Ngọc Tuyền</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Ngọc Tuyền -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
